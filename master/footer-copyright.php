@@ -1,0 +1,1 @@
+Copyright &copy; <?php echo date('Y'); ?> - All rights reserved. Frentor (TM) is a trademark of Shaping Steps India Pvt Limited.
