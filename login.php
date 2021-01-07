@@ -165,7 +165,7 @@ Please click on the below link to Validate Your Account:<br>
 
     <div class=" col-sm-offset-4 col-sm-4 ">
     	<div class="rws-userformdesign">
-        	<h1 style="margin-top:0; font-size:22px;">Member's Login</h1>
+        	<h1 style="margin-top:0; font-size:22px;">User's Login</h1>
             <?php 	echo $gt_msgerror; 	
 					
 					if(isset($_SESSION["GTMsgtoUser"])) { echo $_SESSION["GTMsgtoUser"]; unset($_SESSION["GTMsgtoUser"]); } 
